@@ -43,10 +43,6 @@ This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/
 
 ---
 
-This clarifies exactly which columns you used for blood pressure. Want help adding the blood pressure categories you used?
-
----
-
 # 🧠 Models Used
 
 - Logistic Regression
