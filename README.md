@@ -124,6 +124,16 @@ Basic visualizations like histograms, box plots, and correlation heatmaps were u
 
 ---
 
+# 📊 key Findings
+
+- *Age*, *systolic BP*, *cholesterol*, and *BMI* were the top predictors.
+- Smokers and alcohol users had a higher predicted risk.
+- Physically active individuals showed lower risk on average.
+- High glucose and cholesterol levels strongly correlated with CVD.
+- The *Random Forest model* outperformed others in terms of accuracy and AUC.
+
+----
+
 # 🚀 Streamlit App
 
 An interactive web app is built using *Streamlit* to visualize and predict cardiovascular disease risk.
@@ -147,14 +157,6 @@ Try the live demo here: [Streamlit App](https://your-app-url.streamlit.app)
 
 
 ----
-
-# 📊 key Findings
-
-- *Age*, *systolic BP*, *cholesterol*, and *BMI* were the top predictors.
-- Smokers and alcohol users had a higher predicted risk.
-- Physically active individuals showed lower risk on average.
-- High glucose and cholesterol levels strongly correlated with CVD.
-- The *Random Forest model* outperformed others in terms of accuracy and AUC.
 
 
 # 📦 Requirements
