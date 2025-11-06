@@ -81,6 +81,13 @@ streamlit run app.py
 
 -----
 
+# 🔗 Live Demo
+
+Try the live demo here: [Streamlit App](https://your-app-url.streamlit.app)
+
+
+----
+
 # 📊 key Findings
 
 - *Age*, *systolic BP*, *cholesterol*, and *BMI* were the top predictors.
