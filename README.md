@@ -35,6 +35,17 @@ This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/
 
 ---
 
+# 📊 Exploratory Data Analysis (EDA)
+
+- *Age & Blood Pressure*: Older individuals tend to have higher blood pressure.
+- *Cholesterol & Glucose*: Elevated levels are more common in those with cardiovascular disease.
+- *BMI*: Overweight/obese users showed higher CVD risk.
+- *Lifestyle*: Smokers and alcohol consumers showed slightly higher risk.
+- *Target Balance*: `cardio` classes (0/1) are relatively balanced.
+
+Basic visualizations like histograms, box plots, and correlation heatmaps were used to support these insights.
+
+-----
 
 # ⚙️ Feature Engineering
 
