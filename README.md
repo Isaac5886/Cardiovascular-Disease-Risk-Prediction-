@@ -79,10 +79,8 @@ streamlit run app.py
 ```
 ```
 
----
 
-
-# 📊 Key Findings
+# 📊 key Findings
 
 - *Age*, *systolic BP*, *cholesterol*, and *BMI* were the top predictors.
 - Smokers and alcohol users had a higher predicted risk.
