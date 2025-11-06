@@ -8,14 +8,6 @@ This project uses machine learning to predict the likelihood of cardiovascular d
 
 # 🎯 Problem Statement
 
-Checked your README — it looks neat and organized!  
-
-If you want to add the *Problem Statement* section with an emoji like 🎯, here’s a suggestion for formatting you can insert after your project title and intro:
-
----
-
-# 🎯 Problem Statement
-
 Cardiovascular disease (CVD) remains a leading cause of death globally, often progressing without clear symptoms until critical events occur. Early identification of high-risk individuals is crucial for timely intervention and prevention.
 
 Traditional risk assessment methods require extensive clinical tests and expert analysis, which may not always be accessible or cost-effective. This project leverages machine learning to predict CVD risk using demographic, medical, and lifestyle data, aiming to enable early detection and support healthcare decisions.
