@@ -1,6 +1,7 @@
 # 🫀 Cardiovascular Disease Risk Prediction
 
 This project uses machine learning to predict the likelihood of cardiovascular disease (CVD) using demographic, clinical, and lifestyle data. The goal is to assist early detection and prevention of CVD with data-driven models.
+
 ‐----
 
 # 📚 Table of Contents
@@ -17,9 +18,9 @@ This project uses machine learning to predict the likelihood of cardiovascular d
 - [Requirements](#-requirements)  
 - [License](#-license)  
 - [Author](#-author)  
-```
----
+  
 
+---
 
 # 📁 Project Structure
 
