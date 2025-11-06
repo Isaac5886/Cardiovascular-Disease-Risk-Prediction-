@@ -5,7 +5,7 @@ This project uses machine learning to predict the likelihood of cardiovascular d
 
 ---
 
-📊 Dataset Overview
+# 📊 Dataset Overview
 
 The dataset includes 13 features plus the target variable (`cardio`), representing whether a patient has cardiovascular disease.
 
@@ -30,7 +30,7 @@ The dataset includes 13 features plus the target variable (`cardio`), representi
 
 ---
 
-⚙️ Feature Engineering
+# ⚙️ Feature Engineering
 
 - Converted `age` to years
 - Created BMI: `weight / (height/100)^2`
@@ -39,7 +39,7 @@ The dataset includes 13 features plus the target variable (`cardio`), representi
 
 ---
 
-🧠 Models Used
+# 🧠 Models Used
 
 - Logistic Regression
 - Random Forest
@@ -47,7 +47,7 @@ The dataset includes 13 features plus the target variable (`cardio`), representi
 
 ---
 
-🧪 Evaluation Metrics
+# 🧪 Evaluation Metrics
 
 - Accuracy  
 - Precision  
@@ -56,7 +56,7 @@ The dataset includes 13 features plus the target variable (`cardio`), representi
 
 ---
 
-📈 Results
+# 📈 Results
 
 - Best model: *Random Forest*
 - Accuracy: *(add value)*  
@@ -64,7 +64,7 @@ The dataset includes 13 features plus the target variable (`cardio`), representi
 
 ---
 
-🚀 Streamlit App
+# 🚀 Streamlit App
 
 An interactive web app is built using *Streamlit* to visualize and predict cardiovascular disease risk.
 
@@ -82,7 +82,7 @@ streamlit run app.py
 ---
 
 
-📊 Key Findings
+# 📊 Key Findings
 
 - *Age*, *systolic BP*, *cholesterol*, and *BMI* were the top predictors.
 - Smokers and alcohol users had a higher predicted risk.
@@ -92,7 +92,7 @@ streamlit run app.py
 
 ```
 
-📦 Requirements
+# 📦 Requirements
 
 - Python 3.8+
 - pandas, numpy
@@ -107,13 +107,13 @@ pip install -r requirements.txt
 
 ---
 
-📝 License
+# 📝 License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
 
 *Your Name* – [GitHub Profile](https://github.com/yourusername)
 ```
