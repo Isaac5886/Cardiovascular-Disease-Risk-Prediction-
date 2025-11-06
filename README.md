@@ -100,7 +100,6 @@ Try the live demo here: [Streamlit App](https://your-app-url.streamlit.app)
 - High glucose and cholesterol levels strongly correlated with CVD.
 - The *Random Forest model* outperformed others in terms of accuracy and AUC.
 
-```
 
 # 📦 Requirements
 
@@ -109,7 +108,7 @@ Try the live demo here: [Streamlit App](https://your-app-url.streamlit.app)
 - scikit-learn
 - matplotlib, seaborn
 - xgboost (optional)
-
+  
 Install with:
 ```bash
 pip install -r requirements.txt
