@@ -1,18 +1,21 @@
 # Cardiovascular-Disease-Risk-Prediction-
 
 
----
-
 *This project uses machine learning to predict the likelihood of cardiovascular disease (CVD) by analyzing health, demographic, and lifestyle data. The aim is to enable early detection and support prevention efforts through accurate, data-driven risk assessment models.*
-
----
-
 
 ---
 
 # 📊 Dataset Overview
 
-The dataset includes 13 features plus the target variable (`cardio`), representing whether a patient has cardiovascular disease.
+Sure! Here’s an updated version including the 13 features and ~7000 users:
+
+---
+
+Dataset Overview
+
+This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas), contains health information for approximately *7,000 users*. It includes *13 features* plus the target variable (`cardio`), which indicates the presence or absence of cardiovascular disease. The features represent demographic, clinical, and lifestyle factors relevant to predicting cardiovascular risk.
+
+---
 
 | Feature       | Description |
 |---------------|-------------|
