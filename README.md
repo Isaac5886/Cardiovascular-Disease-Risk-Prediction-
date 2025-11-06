@@ -36,10 +36,14 @@ This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/
 
 # ⚙️ Feature Engineering
 
-- Converted `age` to years
-- Created BMI: `weight / (height/100)^2`
-- Categorized blood pressure into clinical stages
-- Combined `smoke` and `alco` into a `substance_use` feature
+- Converted *age* from days (`age`) to years  
+- Created *BMI* using weight and height: weight / (height/100)²  
+- Categorized *blood pressure* using `ap_hi` (systolic) and `ap_lo` (diastolic) into clinical stages  
+- Combined *smoke* and *alco* into a new *substance_use* feature  
+
+---
+
+This clarifies exactly which columns you used for blood pressure. Want help adding the blood pressure categories you used?
 
 ---
 
