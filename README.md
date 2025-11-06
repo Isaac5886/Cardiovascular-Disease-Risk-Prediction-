@@ -6,6 +6,16 @@ This project uses machine learning to predict the likelihood of cardiovascular d
 
 -----
 
+# 🎯 Problem Statement
+
+Cardiovascular disease (CVD) remains a leading cause of death globally, often progressing without clear symptoms until critical events like heart attacks or strokes occur. Early identification of high-risk individuals is crucial for timely intervention and prevention.
+
+Traditional risk assessment methods typically require extensive clinical tests and expert analysis, which may not always be accessible or cost-effective. This project aims to leverage machine learning techniques to predict the risk of cardiovascular disease using readily available demographic, medical, and lifestyle data.
+
+By building accurate and efficient predictive models, this work seeks to enable early detection of CVD risk, support healthcare providers in decision-making, and ultimately contribute to reducing cardiovascular-related morbidity and mortality.
+
+---
+
 
 # 📚 Table of Contents
 
