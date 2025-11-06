@@ -77,8 +77,9 @@ To Run:
 ```bash
 streamlit run app.py
 ```
-```
 
+
+-----
 
 # 📊 key Findings
 
