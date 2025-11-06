@@ -17,6 +17,8 @@ Traditional risk assessment methods require extensive clinical tests and expert 
 
 # 📚 Table of Contents
 
+
+- [Project Structure]_(#-project-structure)_
 - [Dataset Overview](#-dataset-overview)  
 - [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)  
 - [Feature Engineering](#-feature-engineering)  
