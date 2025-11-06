@@ -5,6 +5,33 @@
 
 ---
 
+
+# 📁 Project Structure
+
+```bash
+cardio-risk-prediction/
+│
+├── data/                  # Raw or cleaned dataset(s)
+│   └── cardio_data.csv
+│
+├── notebooks/             # Jupyter notebooks for EDA and modeling
+│   └── eda.ipynb
+│   └── model_training.ipynb
+│
+├── app/                   # Streamlit app files
+│   └── app.py
+│
+├── models/                # Saved ML models (e.g., .pkl or .joblib)
+│   └── model.joblib
+│
+├── requirements.txt       # Python dependencies
+├── README.md              # Project documentation
+├── .gitignore             # Files to ignore in Git
+└── LICENSE                # License file
+```
+
+---
+
 # 📊 Dataset Overview
 
 This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas), contains health information for approximately *7,000 users*. It includes *13 features* plus the target variable (`cardio`), which indicates the presence or absence of cardiovascular disease. The features represent demographic, clinical, and lifestyle factors relevant to predicting cardiovascular risk.
