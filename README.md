@@ -11,6 +11,8 @@ This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/
 
 ---
 
+# 🧠 Key Features
+
 | Feature       | Description |
 |---------------|-------------|
 | `index`       | Row identifier (not used in modeling) |
