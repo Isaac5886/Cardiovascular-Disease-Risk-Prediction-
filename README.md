@@ -64,6 +64,34 @@ The dataset includes 13 features plus the target variable (`cardio`), representi
 
 ---
 
+🚀 Streamlit App
+
+An interactive web app is built using *Streamlit* to visualize and predict cardiovascular disease risk.
+
+Features:
+- Input patient data (age, gender, BP, cholesterol, etc.)
+- Predict CVD risk (yes/no)
+- Visualize feature importance
+
+To Run:
+```bash
+streamlit run app.py
+```
+```
+
+---
+
+
+📊 Key Findings
+
+- *Age*, *systolic BP*, *cholesterol*, and *BMI* were the top predictors.
+- Smokers and alcohol users had a higher predicted risk.
+- Physically active individuals showed lower risk on average.
+- High glucose and cholesterol levels strongly correlated with CVD.
+- The *Random Forest model* outperformed others in terms of accuracy and AUC.
+
+```
+
 📦 Requirements
 
 - Python 3.8+
