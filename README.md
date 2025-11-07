@@ -82,7 +82,7 @@ This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastato
 | `gluc`   | Glucose level |
 | `smoke`       | Smoking Status (1 = yes, 0 = no) |
 | `alco`        | Alcohol intake (1 = yes, 0 = no
-| `active`   | 1 = Physically active, 0 = Inactive  
+| `active`   | Physical activity status (1 = active, 0 = Inactive) 
 | `cardio` | Target variable: 1 = Has cardiovascular disease, 0 = No disease | 
 
 ---
