@@ -82,9 +82,6 @@ This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastato
 | `gluc`        | Glucose level: 1 = Normal, 2 = Above normal, 3 = Well above normal |
 | `smoke`       | 1 = Smoker, 0 = Non-smoker |
 | `alco`        | 1 = Alcohol consumer, 0 = Non-consumer 
-
----
-
 | `active`   | 1 = Physically active, 0 = Inactive  
 | `cardio` | Target variable: 1 = Has cardiovascular disease, 0 = No disease | 
 
