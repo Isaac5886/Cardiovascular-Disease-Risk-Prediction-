@@ -87,7 +87,7 @@ This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastato
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA)
+# 📈 Exploratory Data Analysis (EDA)
 
 Performed exploratory data analysis to understand the distributions  detect missing values, and observe relationship between features and the target variable.
 
