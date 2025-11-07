@@ -85,7 +85,7 @@ This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastato
 
 ---
 
-| `active` | 1 = Physically active, 0 = Inactive  |
+| `active`   | 1 = Physically active, 0 = Inactive  
 | `cardio` | Target variable: 1 = Has cardiovascular disease, 0 = No disease | 
 
 ---
