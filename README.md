@@ -62,7 +62,7 @@ cardio-risk-prediction/
 
 # 📊 Dataset Overview
 
-This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas), contains health information for approximately *7,000 users*. It includes *13 features* plus the target variable (`cardio`), which indicates the presence or absence of cardiovascular disease. The features represent demographic, clinical, and lifestyle factors relevant to predicting cardiovascular risk.
+This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas), contains health information for approximately *7,000 users*. It includes *13 features* plus the target variable (`cardio`), representing whether a patient has cardiovascular disease.
 
 ---
 
@@ -92,13 +92,7 @@ This dataset, sourced from *Kaggle* on [Kaggle](https://www.kaggle.com/datasets/
 
 # 📊 Exploratory Data Analysis (EDA)
 
-- *Age & Blood Pressure*: Older individuals tend to have higher blood pressure.
-- *Cholesterol & Glucose*: Elevated levels are more common in those with cardiovascular disease.
-- *BMI*: Overweight/obese users showed higher CVD risk.
-- *Lifestyle*: Smokers and alcohol consumers showed slightly higher risk.
-- *Target Balance*: `cardio` classes (0/1) are relatively balanced.
-
-Basic visualizations like histograms, box plots, and correlation heatmaps were used to support these insights.
+Performed exploratory data analysis to understand the distributions  detect missing values, and observe relationship between features and the target variable.
 
 -----
 
