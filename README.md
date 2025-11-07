@@ -104,10 +104,10 @@ Basic visualizations like histograms, box plots, and correlation heatmaps were u
 
 # ⚙️ Feature Engineering
 
-- Converted *age* from days (`age`) to years  
-- Created *BMI* using weight and height: weight / (height/100)²  
+- Converted *age* from days to years  
+- Created *BMI* using weight and height (BMI = weight / (height/100)²) 
 - Categorized *blood pressure* using `ap_hi` (systolic) and `ap_lo` (diastolic) into clinical stages  
-- Combined *smoke* and *alco* into a new *substance_use* feature  
+- Combined *smoke* and *alco* into a new feature called *substance_use* 
 
 ---
 
@@ -130,30 +130,20 @@ Basic visualizations like histograms, box plots, and correlation heatmaps were u
 
 # 📈 Results
 
-- Best model: *Random Forest*
-- Accuracy: *(add value)*  
+The best performing model was *Random Forest* with: 
+- Accuracy: *(add .value)*  
 - ROC-AUC: *(add value)*  
 
 ---
 
-# 📊 key Findings
+# 💡 Key Findings
 
-- *Age*, *systolic BP*, *cholesterol*, and *BMI* were the top predictors.
-- Smokers and alcohol users had a higher predicted risk.
-- Physically active individuals showed lower risk on average.
-- High glucose and cholesterol levels strongly correlated with CVD.
-- The *Random Forest model* outperformed others in terms of accuracy and AUC.
+- Age, BMI, blood pressure, and substance use showed strong correlation with cardiovascular disease risk.  
+- Lifestyle factors like physical activity had a significant impact on risk prediction.  
 
-----
+# 🖥️ Streamlit App
 
-# 🚀 Streamlit App
-
-An interactive web app is built using *Streamlit* to visualize and predict cardiovascular disease risk.
-
-Features:
-- Input patient data (age, gender, BP, cholesterol, etc.)
-- Predict CVD risk (yes/no)
-- Visualize feature importance
+An interactive web app built with Streamlit is available to explore the prediction model.
 
 To Run:
 ```bash
@@ -188,7 +178,7 @@ pip install -r requirements.txt
 
 # 📝 License
 
-This project is open-source and available under the MIT License.
+ MIT License.
 
 ---
 
