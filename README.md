@@ -70,18 +70,18 @@ This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastato
 
 | Feature       | Description |
 |---------------|-------------|
-| `index`       | Row identifier (not used in modeling) |
-| `id`          | Patient ID (can be ignored or used for tracking) |
-| `age`         | Age in days *(convert to years for interpretation)* |
-| `gender`      | 1 = Female, 2 = Male |
-| `height`      | Height in centimeters |
-| `weight`      | Weight in kilograms |
+| `index`       | Row identifier|
+| `id`          | Patient ID|
+| `age`         | Age of the patient (in years)|
+| `gender`      | Gender of the patient|
+| `height`      | Height (cm) |
+| `weight`      | Weight (kg) |
 | `ap_hi`       | Systolic blood pressure |
 | `ap_lo`       | Diastolic blood pressure |
-| `cholesterol` | 1 = Normal, 2 = Above normal, 3 = Well above normal |
-| `gluc`        | Glucose level: 1 = Normal, 2 = Above normal, 3 = Well above normal |
-| `smoke`       | 1 = Smoker, 0 = Non-smoker |
-| `alco`        | 1 = Alcohol consumer, 0 = Non-consumer 
+| `cholesterol` | Cholesterol Level |
+| `gluc`   | Glucose level |
+| `smoke`       | Smoking Status (1 = yes, 0 = no) |
+| `alco`        | Alcohol intake (1 = yes, 0 = no
 | `active`   | 1 = Physically active, 0 = Inactive  
 | `cardio` | Target variable: 1 = Has cardiovascular disease, 0 = No disease | 
 
