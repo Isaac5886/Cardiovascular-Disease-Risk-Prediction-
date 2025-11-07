@@ -175,6 +175,6 @@ pip install -r requirements.txt
 
 # 🙋‍♂️ Author
 
-*Agboola Isaac Oluwatomiwa:* - https://github.com/Isaac5886)](https://github.com/Isaac5886
+*Agboola Isaac Oluwatomiwa:* - https://github.com/Isaac5886
 
 ---
