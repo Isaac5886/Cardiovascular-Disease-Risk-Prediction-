@@ -62,7 +62,7 @@ cardio-risk-prediction/
 
 # 📊 Dataset Overview
 
-This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas), contains health information for approximately *7,000 users*. It includes *13 features* plus the target variable (`cardio`), representing whether a patient has cardiovascular disease.
+This dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas), contains health information for approximately *7,000 users*. It includes *14 features* plus the target variable (`cardio`), representing whether a patient has cardiovascular disease.
 
 ---
 
@@ -175,6 +175,6 @@ pip install -r requirements.txt
 
 # 🙋‍♂️ Author
 
-*Agboola Isaac Oluwatomiwa:* - https://github.com/Isaac5886
+*Agboola Isaac Oluwatomiwa:* - (https://github.com/Isaac5886)
 
 ---
