@@ -146,7 +146,7 @@ streamlit run app.py
 
 # 🔗 Live Demo
 
-Try the live demo here: [Streamlit App](https://your-app-url.streamlit.app)
+Try the live demo here: [Streamlit App](https://vascular.streamlit.app/)
 
 
 ----
