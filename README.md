@@ -133,7 +133,12 @@ The best performing model was *XGBoost Classifier* with:
 - Recall: *0.69*
 - F1 score: *0.72*
 - ROC-AUC: *0.79*  
+- Confusion Matrix:
 
+|               | Predicted No Disease | Predicted Disease |
+|---------------|----------------------|-------------------|
+| *Actual No Disease* | 5360                 | 1578              |
+| *Actual Disease*    | 2118                 | 4675              |
 ---
 
 # 💡 Key Findings
