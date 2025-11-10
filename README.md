@@ -210,3 +210,10 @@ pip install -r requirements.txt
 *Agboola Isaac Oluwatomiwa:* - https://github.com/Isaac5886
 
 ---
+
+Contact  
+For questions, feedback, or collaboration, feel free to reach out:  
+*Email:* agboolaisaac83@gmail.com  
+*GitHub:* [Isaac5886](https://github.com/Isaac5886)
+
+---
