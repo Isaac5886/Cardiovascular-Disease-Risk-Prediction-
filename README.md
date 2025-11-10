@@ -141,11 +141,11 @@ The best performing model was *XGBoost Classifier* with:
 | *Actual Disease*    | 2118                 | 4675              |
 
 
-# - *True Negatives (TN):* 5360  
+- *True Negatives (TN):* 5360  
 - *False Positives (FP):* 1578  
 - *False Negatives (FN):* 2118  
 - *True Positives (TP):* 4675
-```
+
 
 ---
 
