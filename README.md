@@ -33,6 +33,7 @@ Traditional risk assessment methods require extensive clinical tests and expert 
 - [Requirements](#-requirements)  
 - [License](#-license)  
 - [Author](#-author)  
+- [Contact](#-contact)
   
 
 ---
