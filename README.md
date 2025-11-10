@@ -141,11 +141,24 @@ The best performing model was *XGBoost Classifier* with:
 | *Actual Disease*    | 2118                 | 4675              |
 
 
-# *Interpretation:*  
+# - *True Negatives (TN):* 5360  
+- *False Positives (FP):* 1578  
+- *False Negatives (FN):* 2118  
+- *True Positives (TP):* 4675
+```
 
-The model correctly predicted 5360 patients as not having CVD and 4675 as having it. However, it misclassified 1578 and 2118 patients, which may affect real-world decisions, so further model tuning or feature engineering might help.
+---
 
-------
+# 🗣️ *Explanation (Add below the table):*
+
+This confusion matrix shows how well the model classified individuals:
+- *True Positives (4675):* Correctly predicted as having CVD.
+- *True Negatives (5360):* Correctly predicted as not having CVD.
+- *False Positives (1578):* Incorrectly predicted as having CVD.
+- *False Negatives (2118):* Missed cases of actual CVD.
+
+---
+
 
 # 💡 Key Findings
 
