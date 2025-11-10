@@ -63,7 +63,6 @@ cardio-risk-prediction/
 ```
 
 
----
 
 # ▶️ Getting Started 
 
