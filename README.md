@@ -62,24 +62,33 @@ cardio-risk-prediction/
 
 ---
 
-# 🚀 How to Run
+▶️ How to Run
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/Isaac5886/Cardiovascular-Disease-Risk-Prediction-.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd Cardiovascular-Disease-Risk-Prediction-
-   ```
-3. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-4. Run the Streamlit app:
-   ```
-   streamlit run app.py
-   ```
+1. *Clone the repository:*
+
+```bash
+git clone https://github.com/Isaac5886/Cardiovascular-Disease-Risk-Prediction-.git
+cd Cardiovascular-Disease-Risk-Prediction-
+```
+
+2. *Install the dependencies:*
+
+```bash
+pip install -r requirements.txt
+```
+
+3. *Run the Streamlit app:*
+
+```bash
+streamlit run app.py
+```
+
+4. *Open your browser and go to:*
+
+```
+http://localhost:8501
+```
+
 
 ---
 
