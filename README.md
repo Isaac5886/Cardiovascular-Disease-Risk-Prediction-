@@ -60,9 +60,11 @@ cardio-risk-prediction/
 ├── README.md              # Project documentation
 ├── .gitignore             # Files to ignore in Git
 └── LICENSE                # License file
+
 ```
 
 
+------
 
 # ▶️ Getting Started 
 
@@ -194,7 +196,9 @@ This confusion matrix shows how well the model classified individuals:
 # 💡 Key Findings
 
 - Age, BMI, blood pressure, and substance use showed strong correlation with cardiovascular disease risk.  
-- Lifestyle factors like physical activity had a significant impact on risk prediction.  
+- Lifestyle factors like physical activity had a significant impact on risk prediction. 
+
+----- 
 
 # 🖥️ Streamlit App
 
