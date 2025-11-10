@@ -183,7 +183,7 @@ with tab3:
     
     with col2:
         active = st.selectbox("Physical Activity", options=[0, 1], format_func=lambda x: "Yes" if x == 1 else "No")
-        substance = st.number_input("Substance Used", min_value=10.0, max_value=300.0)
+        substance = st.number_input("Substance Used", min_value=00.0, max_value=300.0)
 
 # Tab 4: Laboratory Values
 with tab4:
