@@ -134,9 +134,7 @@ The best performing model was *XGBoost Classifier* with:
 - F1 score: *0.72*
 - ROC-AUC: *0.79*  
 
------
-
-#  📊 Confusion Matrix
+# Confusion Matrix
 
 |               | Predicted No Disease | Predicted Disease |
 |---------------|----------------------|-------------------|
@@ -150,9 +148,7 @@ The best performing model was *XGBoost Classifier* with:
 - *True Positives (TP):* 4675
 
 
----
-
-# 🗣️ *Explanation (Add below the table):*
+# 🗣️ *Interpretation:*
 
 This confusion matrix shows how well the model classified individuals:
 - *True Positives (4675):* Correctly predicted as having CVD.
