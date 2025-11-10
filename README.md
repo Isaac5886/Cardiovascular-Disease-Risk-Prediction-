@@ -211,10 +211,12 @@ pip install -r requirements.txt
 
 ---
 
-# Contact  
+# 📞 Contact
 
-For questions, feedback, or collaboration, feel free to reach out:  
-*Email:* agboolaisaac83@gmail.com  
-*GitHub:* [Isaac5886](https://github.com/Isaac5886)
+If you have any questions or want to reach out, feel free to contact me:
 
+- *Name:* Agboola Isaac Oluwatomiwa  
+- *Email:* agboolaisaac83@gmail.com  
+- *Phone:* +234 808 251 7406  
+- *GitHub:* [Isaac5886](https://github.com/Isaac5886)
 ---
