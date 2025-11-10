@@ -133,16 +133,18 @@ The best performing model was *XGBoost Classifier* with:
 - Recall: *0.69*
 - F1 score: *0.72*
 - ROC-AUC: *0.79*  
-- Confusion Matrix: - *True Positives (4675):* Individuals correctly identified as having cardiovascular disease. These cases help ensure timely medical attention or preventive measures.
-- *False Positives (1578):* Healthy individuals incorrectly flagged. This may lead to unnecessary concern but ensures caution.
-- *False Negatives (2118):* Individuals who actually have the condition but were missed. This is critical and should be reduced to avoid health risks.
-- *True Negatives (5360):* Healthy individuals correctly identified, allowing focus on real cases.
+- Confusion Matrix: 
 
 |               | Predicted No Disease | Predicted Disease |
 |---------------|----------------------|-------------------|
 | *Actual No Disease* | 5360                 | 1578              |
 | *Actual Disease*    | 2118                 | 4675              |
 ---
+
+*Interpretation:*  
+The model correctly predicted 5360 patients as not having CVD and 4675 as having it. However, it misclassified 1578 and 2118 patients, which may affect real-world decisions, so further model tuning or feature engineering might help.
+
+------
 
 # 💡 Key Findings
 
