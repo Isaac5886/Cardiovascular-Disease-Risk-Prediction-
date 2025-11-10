@@ -105,8 +105,11 @@ Performed exploratory data analysis to understand the distributions  detect miss
 # 🧠 Models Used
 
 - Logistic Regression
-- Random Forest
-- XGBoost
+- Decision Tree Classifier 
+- Random Forest classifier
+- XGBoost Classifier 
+- KNeighborsClassifier 
+- Gaussian naive Bayes 
 
 ---
 
@@ -115,15 +118,19 @@ Performed exploratory data analysis to understand the distributions  detect miss
 - Accuracy  
 - Precision  
 - Recall  
+- F1 score 
 - ROC-AUC
 
 ---
 
 # 📈 Results
 
-The best performing model was *Random Forest* with: 
-- Accuracy: *(add .value)*  
-- ROC-AUC: *(add value)*  
+The best performing model was *XGBoost Classifier* with: 
+- Accuracy: *0.73*  
+- Precision: *0.75*
+- Recall: *0.69*
+- F1 score: *0.72*
+- ROC-AUC: *0.79*  
 
 ---
 
