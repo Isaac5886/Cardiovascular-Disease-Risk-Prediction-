@@ -139,9 +139,10 @@ The best performing model was *XGBoost Classifier* with:
 |---------------|----------------------|-------------------|
 | *Actual No Disease* | 5360                 | 1578              |
 | *Actual Disease*    | 2118                 | 4675              |
----
 
-*Interpretation:*  
+
+# *Interpretation:*  
+
 The model correctly predicted 5360 patients as not having CVD and 4675 as having it. However, it misclassified 1578 and 2118 patients, which may affect real-world decisions, so further model tuning or feature engineering might help.
 
 ------
