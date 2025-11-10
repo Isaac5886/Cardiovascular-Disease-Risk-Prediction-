@@ -20,7 +20,7 @@ Traditional risk assessment methods require extensive clinical tests and expert 
 # 📚 Table of Contents
 
 - [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
+- [Getting Started](#-getting-started)
 - [Dataset Overview](#-dataset-overview)  
 - [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)  
 - [Feature Engineering](#-feature-engineering)  
@@ -65,7 +65,7 @@ cardio-risk-prediction/
 
 ---
 
-# ▶️ How to Run
+# ▶️ Getting Started 
 
 1. *Clone the repository:*
 
