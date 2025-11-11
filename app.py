@@ -79,7 +79,7 @@ st.markdown("""
 # Load model
 @st.cache_resource
 def load_model():
-    model = joblib.load('best_model_lr.pkl')
+    model = joblib.load('best_model_xgb.pkl')
     return model
 
 model = load_model()
