@@ -68,6 +68,7 @@ cardio-risk-prediction/
 
 # ▶️ Usage Instructions 
 
+```
 1. *Clone the repository:*
 
 ```bash
